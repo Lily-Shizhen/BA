@@ -2,7 +2,9 @@ The code are organized based on Figures, each folder will have some similar file
 The steps to replicate the results follows the steps below:
 
 Step 1:RUN "EarlyAscent_Preprocess" to get the "result" file
+
 Step 2: RUN "generating_pickles" to get the "results_pickle" file
+
 Step 3: RUN corresponding visualization files
 
 | **Parameter/Concept** | **Definition in Words**                                                                                          | **Code Representation**             | **Essence in Code**                                                                                          |
